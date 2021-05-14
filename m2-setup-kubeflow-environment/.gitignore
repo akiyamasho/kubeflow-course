@@ -1,0 +1,7 @@
+kfctl
+kfctl_*
+pskfp-*/*
+mykfp-*/*
+*.sh
+*.tar.gz
+internal.sh
